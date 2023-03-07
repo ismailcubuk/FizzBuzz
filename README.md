@@ -1,3 +1,5 @@
+<h1><strong>React App</strong></h1>
+
 <h1>Enter your number input area</h1>
 <p>If number is completely divided to 3, your number <strong>Fizz</strong> </p>
 <p>If number is completely divided to 5, your number <strong>Buzz</strong> </p>
