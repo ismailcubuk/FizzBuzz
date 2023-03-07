@@ -1,13 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-
+#Enter your number input area
+#If number is completely divided to 3, your number fizz
+#If number is completely divided to 5, your number buzz
+#If number is completely divided to 3 and 5 your number fizzbuzz
 
 # Enter input your number
 
