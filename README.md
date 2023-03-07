@@ -1,5 +1,6 @@
 <h1>Enter your number input area</h1>
-##If number is completely divided to 3, your number fizz
+<p>If number is completely divided to 3, your number fizz </p>
+##
 ##If number is completely divided to 5, your number buzz
 ##If number is completely divided to 3 and 5 your number fizzbuzz
 
